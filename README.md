@@ -9,6 +9,7 @@ GraphQL-PokeApi: https://mazipan-gql-pokeapi.herokuapp.com
 Clonar o repositório:
 
 `` `
+
 https://github.com/katiellyfeitosa/pokedex-simple-graphQL.git
 
 `` `
